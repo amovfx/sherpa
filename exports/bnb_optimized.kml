@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6161">
+        <Style id="6164">
+            <IconStyle id="6165">
+                <color>ff376800</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6166">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6169">
+            <IconStyle id="6170">
+                <color>ff3f7809</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6171">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6174">
+            <IconStyle id="6175">
+                <color>ff539e27</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6176">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6179">
+            <IconStyle id="6180">
+                <color>ff64c477</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6181">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6184">
+            <IconStyle id="6185">
+                <color>ff65c77f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6186">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6189">
+            <IconStyle id="6190">
+                <color>ff8ff0db</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6191">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6194">
+            <IconStyle id="6195">
+                <color>ff99f3e3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6196">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6199">
+            <IconStyle id="6200">
+                <color>ffbbfefc</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6201">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6204">
+            <IconStyle id="6205">
+                <color>ffbbfdfe</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6206">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6209">
+            <IconStyle id="6210">
+                <color>ffb5f9fe</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6211">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6214">
+            <IconStyle id="6215">
+                <color>ffadf4fe</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6216">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6219">
+            <IconStyle id="6220">
+                <color>ffa1edfe</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6221">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6224">
+            <IconStyle id="6225">
+                <color>ff9be9fe</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6226">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6229">
+            <IconStyle id="6230">
+                <color>ff66b4fd</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6231">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6234">
+            <IconStyle id="6235">
+                <color>ff261cc2</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6236">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6239">
+            <IconStyle id="6240">
+                <color>ff2603a8</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6241">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6244">
+            <IconStyle id="6245">
+                <color>ff2603a8</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6246">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6249">
+            <IconStyle id="6250">
+                <color>ff2600a5</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6251">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Rome AirBnbs</name>
+        <Placemark id="6163">
+            <name>Snow White in the Tiberina Island.</name>
+            <description>https://airbnb.com/rooms/10980286</description>
+            <styleUrl>#6164</styleUrl>
+            <Point id="6162">
+                <coordinates>12.47489,41.89201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6168">
+            <name>Brand New Attic in Trastevere!</name>
+            <description>https://airbnb.com/rooms/788246879857710724</description>
+            <styleUrl>#6169</styleUrl>
+            <Point id="6167">
+                <coordinates>12.4693998,41.8918605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6173">
+            <name>Art Apartment in Trastevere</name>
+            <description>https://airbnb.com/rooms/53824805</description>
+            <styleUrl>#6174</styleUrl>
+            <Point id="6172">
+                <coordinates>12.4679008,41.8918531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6178">
+            <name>Boutique Domus Ripetta  Close SpanishTreviPantheon</name>
+            <description>https://airbnb.com/rooms/827996926286851122</description>
+            <styleUrl>#6179</styleUrl>
+            <Point id="6177">
+                <coordinates>12.474851482273271,41.903180718501474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6183">
+            <name>In the heart of Trastevere</name>
+            <description>https://airbnb.com/rooms/14010875</description>
+            <styleUrl>#6184</styleUrl>
+            <Point id="6182">
+                <coordinates>12.47006,41.89068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6188">
+            <name>The great  beauty of Piazza Farnese</name>
+            <description>https://airbnb.com/rooms/882510348797241127</description>
+            <styleUrl>#6189</styleUrl>
+            <Point id="6187">
+                <coordinates>12.472112847585272,41.894103516983655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6193">
+            <name>Romanticasa Navona</name>
+            <description>https://airbnb.com/rooms/15440289</description>
+            <styleUrl>#6194</styleUrl>
+            <Point id="6192">
+                <coordinates>12.4716,41.90192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6198">
+            <name>Elegant apartment with patio at Piazza Navona</name>
+            <description>https://airbnb.com/rooms/978873748577815605</description>
+            <styleUrl>#6199</styleUrl>
+            <Point id="6197">
+                <coordinates>12.47015,41.89994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6203">
+            <name>Via dei Cestari loft</name>
+            <description>https://airbnb.com/rooms/44083598</description>
+            <styleUrl>#6204</styleUrl>
+            <Point id="6202">
+                <coordinates>12.47618,41.89613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6208">
+            <name>The mirror house elegant apartment Piazza Navona</name>
+            <description>https://airbnb.com/rooms/826688354126404131</description>
+            <styleUrl>#6209</styleUrl>
+            <Point id="6207">
+                <coordinates>12.472841283701037,41.89775269611801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6213">
+            <name>iFlat | Synagogue at Your Feet</name>
+            <description>https://airbnb.com/rooms/686845086088756635</description>
+            <styleUrl>#6214</styleUrl>
+            <Point id="6212">
+                <coordinates>12.4779768,41.8923032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6218">
+            <name>Elegant apartment</name>
+            <description>https://airbnb.com/rooms/1021753658222523008</description>
+            <styleUrl>#6219</styleUrl>
+            <Point id="6217">
+                <coordinates>12.47473,41.90192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6223">
+            <name>BrandNew Navona - LooneyTunes</name>
+            <description>https://airbnb.com/rooms/860016183772761904</description>
+            <styleUrl>#6224</styleUrl>
+            <Point id="6222">
+                <coordinates>12.471632287207711,41.898813246923154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6228">
+            <name>Romantic apartment in the heart of Trastevere</name>
+            <description>https://airbnb.com/rooms/573940540477566659</description>
+            <styleUrl>#6229</styleUrl>
+            <Point id="6227">
+                <coordinates>12.46882,41.89043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6233">
+            <name>Flower Home Campo de Fiori</name>
+            <description>https://airbnb.com/rooms/765246847395768961</description>
+            <styleUrl>#6234</styleUrl>
+            <Point id="6232">
+                <coordinates>12.471591,41.8956709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6238">
+            <name>Rome Center, luxury &amp; history in Via Monserrato</name>
+            <description>https://airbnb.com/rooms/1020094140037584413</description>
+            <styleUrl>#6239</styleUrl>
+            <Point id="6237">
+                <coordinates>12.468,41.89586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6243">
+            <name>Wonderful Apartment with Balcony in Piazza Margana</name>
+            <description>https://airbnb.com/rooms/933139654157111659</description>
+            <styleUrl>#6244</styleUrl>
+            <Point id="6242">
+                <coordinates>12.481377502407392,41.8942671328134,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6248">
+            <name>Via dei Cartari luxury apartment</name>
+            <description>https://airbnb.com/rooms/43734600</description>
+            <styleUrl>#6249</styleUrl>
+            <Point id="6247">
+                <coordinates>12.46928,41.89843,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

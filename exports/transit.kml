@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="5829">
+        <Style id="5832">
+            <IconStyle id="5833">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5834">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5837">
+            <IconStyle id="5838">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5839">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5842">
+            <IconStyle id="5843">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5844">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5847">
+            <IconStyle id="5848">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5849">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5852">
+            <IconStyle id="5853">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5854">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5857">
+            <IconStyle id="5858">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5859">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5862">
+            <IconStyle id="5863">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5864">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5867">
+            <IconStyle id="5868">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5869">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5872">
+            <IconStyle id="5873">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5874">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5877">
+            <IconStyle id="5878">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5879">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5882">
+            <IconStyle id="5883">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5884">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5887">
+            <IconStyle id="5888">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5889">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5892">
+            <IconStyle id="5893">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5894">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5897">
+            <IconStyle id="5898">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5899">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5902">
+            <IconStyle id="5903">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5904">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5907">
+            <IconStyle id="5908">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5909">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5912">
+            <IconStyle id="5913">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5914">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5917">
+            <IconStyle id="5918">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5919">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5922">
+            <IconStyle id="5923">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5924">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5927">
+            <IconStyle id="5928">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5929">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5932">
+            <IconStyle id="5933">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5934">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5937">
+            <IconStyle id="5938">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5939">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5942">
+            <IconStyle id="5943">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5944">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5947">
+            <IconStyle id="5948">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5949">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5952">
+            <IconStyle id="5953">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5954">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5957">
+            <IconStyle id="5958">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5959">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5962">
+            <IconStyle id="5963">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5964">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5967">
+            <IconStyle id="5968">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5969">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5972">
+            <IconStyle id="5973">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5974">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5977">
+            <IconStyle id="5978">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5979">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5982">
+            <IconStyle id="5983">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5984">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5987">
+            <IconStyle id="5988">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5989">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5992">
+            <IconStyle id="5993">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5994">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="5997">
+            <IconStyle id="5998">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="5999">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6002">
+            <IconStyle id="6003">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6004">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6007">
+            <IconStyle id="6008">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6009">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6012">
+            <IconStyle id="6013">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6014">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6017">
+            <IconStyle id="6018">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6019">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6022">
+            <IconStyle id="6023">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6024">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6027">
+            <IconStyle id="6028">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6029">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6032">
+            <IconStyle id="6033">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6034">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6037">
+            <IconStyle id="6038">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6039">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6042">
+            <IconStyle id="6043">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6044">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6047">
+            <IconStyle id="6048">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6049">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6052">
+            <IconStyle id="6053">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6054">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6057">
+            <IconStyle id="6058">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6059">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6062">
+            <IconStyle id="6063">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6064">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6067">
+            <IconStyle id="6068">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6069">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6072">
+            <IconStyle id="6073">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6074">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6077">
+            <IconStyle id="6078">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6079">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6082">
+            <IconStyle id="6083">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6084">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6087">
+            <IconStyle id="6088">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6089">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6092">
+            <IconStyle id="6093">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6094">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6097">
+            <IconStyle id="6098">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6099">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6102">
+            <IconStyle id="6103">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6104">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6107">
+            <IconStyle id="6108">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6109">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6112">
+            <IconStyle id="6113">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6114">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6117">
+            <IconStyle id="6118">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6119">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6122">
+            <IconStyle id="6123">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6124">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6127">
+            <IconStyle id="6128">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6129">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6132">
+            <IconStyle id="6133">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6134">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6137">
+            <IconStyle id="6138">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6139">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6142">
+            <IconStyle id="6143">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6144">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6147">
+            <IconStyle id="6148">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6149">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6152">
+            <IconStyle id="6153">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6154">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="6157">
+            <IconStyle id="6158">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6159">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <name>Transit Locations 3</name>
+        <Placemark id="5831">
+            <name>Arenula- Ministero Grazia E Giustizia</name>
+            <styleUrl>#5832</styleUrl>
+            <Point id="5830">
+                <coordinates>12.4747012,41.8923591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5836">
+            <name>Lgt De' Cenci/Arenula</name>
+            <styleUrl>#5837</styleUrl>
+            <Point id="5835">
+                <coordinates>12.475189,41.8919045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5841">
+            <name>Arenula/Min. G. Giustizia</name>
+            <styleUrl>#5842</styleUrl>
+            <Point id="5840">
+                <coordinates>12.4749032,41.8922921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5846">
+            <name>Arenula/Min. G.Giustizia</name>
+            <styleUrl>#5847</styleUrl>
+            <Point id="5845">
+                <coordinates>12.4746231,41.8922219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5851">
+            <name>Arenula (Ministero Giustizia)</name>
+            <styleUrl>#5852</styleUrl>
+            <Point id="5850">
+                <coordinates>12.4749023,41.8925381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5856">
+            <name>Lgt De' Cenci</name>
+            <styleUrl>#5857</styleUrl>
+            <Point id="5855">
+                <coordinates>12.476887,41.89189500000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5861">
+            <name>Arenula/Cairoli</name>
+            <styleUrl>#5862</styleUrl>
+            <Point id="5860">
+                <coordinates>12.4754878,41.8935451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5866">
+            <name>Lgt Farnesina/Trilussa</name>
+            <styleUrl>#5867</styleUrl>
+            <Point id="5865">
+                <coordinates>12.469394,41.8924908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5871">
+            <name>Lgt Farnesina/Trilussa</name>
+            <styleUrl>#5872</styleUrl>
+            <Point id="5870">
+                <coordinates>12.469394,41.8924908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5876">
+            <name>Monte Brianzo</name>
+            <styleUrl>#5877</styleUrl>
+            <Point id="5875">
+                <coordinates>12.4739941,41.9028199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5881">
+            <name>Lgt Marzio</name>
+            <styleUrl>#5882</styleUrl>
+            <Point id="5880">
+                <coordinates>12.4737832,41.90306069999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5886">
+            <name>Ripetta</name>
+            <styleUrl>#5887</styleUrl>
+            <Point id="5885">
+                <coordinates>12.475233,41.904053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5891">
+            <name>Lgt Marzio/Porto Di Ripetta</name>
+            <styleUrl>#5892</styleUrl>
+            <Point id="5890">
+                <coordinates>12.474908,41.904259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5896">
+            <name>Fontanella Borghese</name>
+            <styleUrl>#5897</styleUrl>
+            <Point id="5895">
+                <coordinates>12.476968,41.903599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5901">
+            <name>Prefetti</name>
+            <styleUrl>#5902</styleUrl>
+            <Point id="5900">
+                <coordinates>12.4770929,41.9025548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5906">
+            <name>Lgt Vallati/Pettinari</name>
+            <styleUrl>#5907</styleUrl>
+            <Point id="5905">
+                <coordinates>12.4718719,41.89242379999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5911">
+            <name>Zanardelli</name>
+            <styleUrl>#5912</styleUrl>
+            <Point id="5910">
+                <coordinates>12.4722071,41.9011935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5916">
+            <name>Zanardelli</name>
+            <styleUrl>#5917</styleUrl>
+            <Point id="5915">
+                <coordinates>12.4721612,41.9014278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5921">
+            <name>Lgt Marzio</name>
+            <styleUrl>#5922</styleUrl>
+            <Point id="5920">
+                <coordinates>12.472478,41.902321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5926">
+            <name>Zanardelli</name>
+            <styleUrl>#5927</styleUrl>
+            <Point id="5925">
+                <coordinates>12.4722146,41.9010389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5931">
+            <name>Lgt Tor Di Nona/Zanardelli</name>
+            <styleUrl>#5932</styleUrl>
+            <Point id="5930">
+                <coordinates>12.470218,41.901615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5936">
+            <name>Lgt Tor Di Nona/Zanardelli</name>
+            <styleUrl>#5937</styleUrl>
+            <Point id="5935">
+                <coordinates>12.470218,41.901615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5941">
+            <name>C.so Vittorio Emanuele (Argentina)</name>
+            <styleUrl>#5942</styleUrl>
+            <Point id="5940">
+                <coordinates>12.4759625,41.8962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5946">
+            <name>Argentina</name>
+            <styleUrl>#5947</styleUrl>
+            <Point id="5945">
+                <coordinates>12.476855,41.896122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5951">
+            <name>Via Torre Argentina</name>
+            <styleUrl>#5952</styleUrl>
+            <Point id="5950">
+                <coordinates>12.4763818,41.89510509999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5956">
+            <name>Corso Rinascimento</name>
+            <styleUrl>#5957</styleUrl>
+            <Point id="5955">
+                <coordinates>12.4740745,41.8976395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5961">
+            <name>Rinascimento</name>
+            <styleUrl>#5962</styleUrl>
+            <Point id="5960">
+                <coordinates>12.4739286,41.8980432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5966">
+            <name>C.So Vittorio Emanuele/Navona</name>
+            <styleUrl>#5967</styleUrl>
+            <Point id="5965">
+                <coordinates>12.4717949,41.8970248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5971">
+            <name>C.So Vittorio Emanuele/Navona</name>
+            <styleUrl>#5972</styleUrl>
+            <Point id="5970">
+                <coordinates>12.4714974,41.8972533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5976">
+            <name>Rinascimento</name>
+            <styleUrl>#5977</styleUrl>
+            <Point id="5975">
+                <coordinates>12.4742287,41.8973364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5981">
+            <name>C.So Vittorio Emanuele/S. A. Della Valle</name>
+            <styleUrl>#5982</styleUrl>
+            <Point id="5980">
+                <coordinates>12.4738221,41.89664389999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5986">
+            <name>Lgt De' Cenci</name>
+            <styleUrl>#5987</styleUrl>
+            <Point id="5985">
+                <coordinates>12.476887,41.89189500000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5991">
+            <name>P.Za Monte Savello</name>
+            <styleUrl>#5992</styleUrl>
+            <Point id="5990">
+                <coordinates>12.479029,41.89124119999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5996">
+            <name>P.Za Monte Savello</name>
+            <styleUrl>#5997</styleUrl>
+            <Point id="5995">
+                <coordinates>12.479053,41.891064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6001">
+            <name>Teatro Marcello/Campitelli</name>
+            <styleUrl>#6002</styleUrl>
+            <Point id="6000">
+                <coordinates>12.48022,41.891869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6006">
+            <name>Monte Brianzo</name>
+            <styleUrl>#6007</styleUrl>
+            <Point id="6005">
+                <coordinates>12.4739941,41.9028199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6011">
+            <name>Lgt Marzio</name>
+            <styleUrl>#6012</styleUrl>
+            <Point id="6010">
+                <coordinates>12.4737832,41.90306069999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6016">
+            <name>Senato</name>
+            <styleUrl>#6017</styleUrl>
+            <Point id="6015">
+                <coordinates>12.4739159,41.90034379999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6021">
+            <name>Lgt Marzio</name>
+            <styleUrl>#6022</styleUrl>
+            <Point id="6020">
+                <coordinates>12.472478,41.902321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6026">
+            <name>C.So Vittorio Emanuele/Navona</name>
+            <styleUrl>#6027</styleUrl>
+            <Point id="6025">
+                <coordinates>12.4714974,41.8972533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6031">
+            <name>C.So Vittorio Emanuele/Navona</name>
+            <styleUrl>#6032</styleUrl>
+            <Point id="6030">
+                <coordinates>12.4717949,41.8970248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6036">
+            <name>C.So Vittorio Emanuele/Navona</name>
+            <styleUrl>#6037</styleUrl>
+            <Point id="6035">
+                <coordinates>12.4714974,41.8972533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6041">
+            <name>Lgt Tebaldi/Perosi</name>
+            <styleUrl>#6042</styleUrl>
+            <Point id="6040">
+                <coordinates>12.467054,41.8961926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6046">
+            <name>Palazzo Falconieri - Uroboro</name>
+            <styleUrl>#6047</styleUrl>
+            <Point id="6045">
+                <coordinates>12.46844,41.895077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6051">
+            <name>Lgt Sangallo/Perosi</name>
+            <styleUrl>#6052</styleUrl>
+            <Point id="6050">
+                <coordinates>12.4662806,41.8968773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6056">
+            <name>Lgt Farnesina</name>
+            <styleUrl>#6057</styleUrl>
+            <Point id="6055">
+                <coordinates>12.4668791,41.89445120000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6061">
+            <name>Ara Coeli- Piazza Venezia</name>
+            <styleUrl>#6062</styleUrl>
+            <Point id="6060">
+                <coordinates>12.4814879,41.8939408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6066">
+            <name>Ara Coeli/Piazza Venezia</name>
+            <styleUrl>#6067</styleUrl>
+            <Point id="6065">
+                <coordinates>12.48117,41.894341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6071">
+            <name>P.Za Venezia</name>
+            <styleUrl>#6072</styleUrl>
+            <Point id="6070">
+                <coordinates>12.4819887,41.89469039999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6076">
+            <name>Capolinea</name>
+            <styleUrl>#6077</styleUrl>
+            <Point id="6075">
+                <coordinates>12.4819441,41.894789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6081">
+            <name>P.Za Venezia</name>
+            <styleUrl>#6082</styleUrl>
+            <Point id="6080">
+                <coordinates>12.4819123,41.8949016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6086">
+            <name>P.Za Venezia</name>
+            <styleUrl>#6087</styleUrl>
+            <Point id="6085">
+                <coordinates>12.481861,41.89500679999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6091">
+            <name>P.Za Venezia</name>
+            <styleUrl>#6092</styleUrl>
+            <Point id="6090">
+                <coordinates>12.4818147,41.8950957,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6096">
+            <name>Ara Coeli/P.Za Venezia</name>
+            <styleUrl>#6097</styleUrl>
+            <Point id="6095">
+                <coordinates>12.4818304,41.8934522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6101">
+            <name>Teatro Marcello</name>
+            <styleUrl>#6102</styleUrl>
+            <Point id="6100">
+                <coordinates>12.481618,41.893318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6106">
+            <name>Venezia</name>
+            <styleUrl>#6107</styleUrl>
+            <Point id="6105">
+                <coordinates>12.4811984,41.8952696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6111">
+            <name>Pza S. Marco</name>
+            <styleUrl>#6112</styleUrl>
+            <Point id="6110">
+                <coordinates>12.481825,41.89538599999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6116">
+            <name>Teatro Marcello</name>
+            <styleUrl>#6117</styleUrl>
+            <Point id="6115">
+                <coordinates>12.481387,41.893101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6121">
+            <name>Teatro Marcello/Ara Coeli</name>
+            <styleUrl>#6122</styleUrl>
+            <Point id="6120">
+                <coordinates>12.4810784,41.89311549999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6126">
+            <name>Pza Venezia</name>
+            <styleUrl>#6127</styleUrl>
+            <Point id="6125">
+                <coordinates>12.48196,41.895432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6131">
+            <name>Astalli/Venezia</name>
+            <styleUrl>#6132</styleUrl>
+            <Point id="6130">
+                <coordinates>12.480603,41.895565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6136">
+            <name>Chiesa Nuova</name>
+            <styleUrl>#6137</styleUrl>
+            <Point id="6135">
+                <coordinates>12.468842,41.89788799999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6141">
+            <name>Chiesa Nuova</name>
+            <styleUrl>#6142</styleUrl>
+            <Point id="6140">
+                <coordinates>12.4695495,41.8975459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6146">
+            <name>C.So Vittorio Emanuele/Tassoni</name>
+            <styleUrl>#6147</styleUrl>
+            <Point id="6145">
+                <coordinates>12.4675044,41.898863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6151">
+            <name>Corso Vittorio Emanuele- Tassoni</name>
+            <styleUrl>#6152</styleUrl>
+            <Point id="6150">
+                <coordinates>12.4672912,41.898886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="6156">
+            <name>C.So Vittorio Emanuele/Tassoni</name>
+            <styleUrl>#6157</styleUrl>
+            <Point id="6155">
+                <coordinates>12.4670781,41.8989862,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
